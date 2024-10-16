@@ -10,5 +10,5 @@ The simulation includes a life cycle system:
 
   - Animals need to be fed regularly. If they go unfed for a few days (steps), they will die.
   - Animals also have a lifespan defined by their age, which is set by the user at the time of creation. If they reach their maximum age, they will die naturally.
-  - 
+    
 Additionally, you can run an automatic mode, where the simulation handles the creation, movement, and feeding of animals without user input.
